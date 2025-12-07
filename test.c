@@ -1,4 +1,1 @@
-#include <stdio.h>
-int main(){
-    printf("hello world");
-}
+we are charlie kirk
